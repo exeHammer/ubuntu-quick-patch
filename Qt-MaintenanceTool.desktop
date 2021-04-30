@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/ares/Qt/MaintenanceTool
+Path=/home/ares/Qt
+Name=Qt Maintenance Tool
+GenericName=Install or uninstall Qt components.
+Icon=QtIcon
+Terminal=false
+Categories=Development;Qt;
